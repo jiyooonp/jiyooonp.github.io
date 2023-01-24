@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperMod on Jiyoon Park</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/</link>
+    <link>/posts/papermod.html</link>
     <description>Recent content in PaperMod on Jiyoon Park</description>
     <image>
-      <url>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</link>
+      <url>/papermod-cover.png</url>
+      <link>/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/papermod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Reconstruction</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw4/</link>
+      <link>/posts/papermod/hw4.html</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw4/</guid>
+      <guid>/posts/papermod/hw4.html</guid>
       <description>3D Reconstruction 16-720 Computer Vision: Homework 4 · Fall 2022 🔗GITHUB About The Project Implemented an algorithm to reconstruct a 3D point cloud from a pair of images taken at different angles. Used the 8-point/7-point algorithm and triangulation to find and vizualize 3D locations of corresponding image points.
 Built With: Python NumPy (back to top)
 Results For the entire report, please refer to the Documentation
@@ -24,20 +24,20 @@ The Eight Point Algorithm for calculating the fundamental matrix The Seven Point
     
     <item>
       <title>Augmented Reality with Planar Homographies</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw3/</link>
+      <link>/posts/papermod/hw3.html</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw3/</guid>
+      <guid>/posts/papermod/hw3.html</guid>
       <description>Augmented Reality with Planar Homographies 16-720 Computer Vision: Homework 3 · Fall 2022 🔗GITHUB About The Project Implementing an AR application step by step using planar homographies. Finding point correspondences between two images and use these to estimate the homography between them. Then using this homography to warp images and finally implement it on AR applications.
 Built With: Python NumPy Results For the entire report, please refer to the Documentation</description>
     </item>
     
     <item>
       <title>Lucas-Kanade Tracking</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw2/</link>
+      <link>/posts/papermod/hw2.html</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw2/</guid>
+      <guid>/posts/papermod/hw2.html</guid>
       <description>Lucas-Kanade Tracking 16-720 Computer Vision: Homework 2 · Fall 2022 🔗GITHUB About The Project Implement asimple Lucas-Kanade (LK) tracker with a single template. And implement a motion subtraction method to track moving pixels in a scene. Finally, efficient tracking using inverse composition.
 Built With: Python NumPy (back to top)
 Results For the entire report, please refer to the Documentation
@@ -46,10 +46,10 @@ Lucas-Kanade Tracking with One Single Template Lucas-Kanade Tracking with Templa
     
     <item>
       <title>Spatial Pyramid Matching for Scene Classification</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw1/</link>
+      <link>/posts/papermod/hw1.html</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw1/</guid>
+      <guid>/posts/papermod/hw1.html</guid>
       <description>Spatial Pyramid Matching for Scene Classification 16-720 Computer Vision: Homework 1 · Fall 2022 🔗GITHUB About The Project Implementation of a scence classification system that uses bag-of-words approach with its spatial pyramid extenstion.
 Built With: Python NumPy (back to top)
 Pipeline Results For the entire report, please refer to the Documentation
@@ -58,10 +58,10 @@ Extracting Filter Responses Visualization of wordmaps 4 Building A Model of the 
     
     <item>
       <title>Camera Mobile Manipulator</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/glab/</link>
+      <link>/posts/papermod/glab.html</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/glab/</guid>
+      <guid>/posts/papermod/glab.html</guid>
       <description>🔗GITHUB Quick Start roslaunch cmm_gazebo ridgeback_iiwa_gazebo.launch roslaunch cmm_viz mobile_manipulation_interactive_demo.launch roslaunch darknet_ros darknet_ros.launch Visual Servoing Test in real world Manipulation Replication Test in real world Default World Darknet Camera Movement in Simulation LINKS Visual Servoing:
 https://github.com/savnani5/Visual-Servoing/ Object Detection cpp:
 https://docs.openvino.ai/latest/omz_demos_object_detection_demo_cpp.html RGBD Camera:
@@ -71,10 +71,10 @@ https://www.stereolabs.com/docs/ros/depth-sensing/ Gazebo person
     
     <item>
       <title>Ridgeback Trajectory Planning</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/tsp/</link>
+      <link>/posts/papermod/tsp.html</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/tsp/</guid>
+      <guid>/posts/papermod/tsp.html</guid>
       <description>🔗PROJECT PAGE &amp;nbsp;&amp;nbsp; 🔗GITHUB Motivation: In taking our project to the next level, we wanted to allow our robot to draw on a large curved surface. This repository is for calculating the trajectory for following the curved wall.
 --- Input: Mesh wall in .obj file form
 Output: ridgeback trajectory
@@ -84,30 +84,30 @@ X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86
     
     <item>
       <title>JELP: Restaurant Recommendation and Analysis Website</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/review/</link>
+      <link>/posts/papermod/review.html</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/review/</guid>
+      <guid>/posts/papermod/review.html</guid>
       <description>JELP: Restaurant Recommendation and Analysis Website Big Data Application · Fall 2021 🔗GITHUB About The Project Our Project JELP is a restaurant recommendation service that also provides useful information on restaurants. Our website cannot be accessed unless a user logs into the website. Once logged in, the user has access to all rank viewing, selecting, and viewing wanted data and data manipulation!
 Built With: PHP SQLite HTML/CSS/JS Bootstrap Python Database Schema &amp;amp; ER diagram Overview of PHP Code Structure Demonstraion of website _</description>
     </item>
     
     <item>
       <title>Autonomous Driving Trolley, MEME</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/capstone/</link>
+      <link>/posts/papermod/capstone.html</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/capstone/</guid>
+      <guid>/posts/papermod/capstone.html</guid>
       <description>Autonomous Driving Trolley, MEME 🔗GITHUB
 당신의 쇼핑 생활을 upgrade해 줄 MEME. Project Overview • How To Use • Contributors &amp; Blogs • References • Awards &amp; Patents • License Presentation Video • Paper • Poster • Notion • GitHub ✨ Project Overview ‼️ Key Features Object Tracking System with YOLOv5 &amp;amp; DeepSORT Keyword Spotting: RNN model on word &amp;ldquo;미미야&amp;rdquo; Realtime Location Track with LiDAR Sensor Emergency Detection with ultrasonic Sensor Embedding System ⚒️ System Architecture 🛎️ Quick Start 본 시스템은 Ubuntu 18.</description>
     </item>
     
     <item>
       <title>Course Information You Need</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/ciyn/</link>
+      <link>/posts/papermod/ciyn.html</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/ciyn/</guid>
+      <guid>/posts/papermod/ciyn.html</guid>
       <description>CIYN | Course Information You Need Open Software Platform · Fall 2020 🔗 GITHUB About The Project Implementing an AR application step by step using planar homographies. Finding point correspondences between two images and use these to estimate the homography between them. Then using this homography to warp images and finally implement it on AR applications.
 Page Configuration front-end-bootstrap folder has all elements of our site. front-end-prototype folder has the prototype images of our site.</description>
     </item>

@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw4/</loc>
+    <loc>/posts/papermod/hw4.html</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/</loc>
+    <loc>/</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/markdown/</loc>
+    <loc>/tags/markdown.html</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/</loc>
+    <loc>/posts/papermod.html</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/</loc>
+    <loc>/posts.html</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/</loc>
+    <loc>/tags.html</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/text/</loc>
+    <loc>/tags/text.html</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw3/</loc>
+    <loc>/posts/papermod/hw3.html</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw2/</loc>
+    <loc>/posts/papermod/hw2.html</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/hw1/</loc>
+    <loc>/posts/papermod/hw1.html</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/glab/</loc>
+    <loc>/posts/papermod/glab.html</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/tsp/</loc>
+    <loc>/posts/papermod/tsp.html</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/review/</loc>
+    <loc>/posts/papermod/review.html</loc>
     <lastmod>2021-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/capstone/</loc>
+    <loc>/posts/papermod/capstone.html</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/ciyn/</loc>
+    <loc>/posts/papermod/ciyn.html</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/</loc>
+    <loc>/categories.html</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/education/</loc>
+    <loc>/education.html</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/archives/</loc>
+    <loc>/archives.html</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/search/</loc>
+    <loc>/search.html</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/series/</loc>
+    <loc>/series.html</loc>
   </url>
 </urlset>
