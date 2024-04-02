@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="noindex, nofollow">
 <title>Ridgeback Trajectory Planning | Jiyoon Park</title>
 <meta name="keywords" content="GLAB, Ewha">
 <meta name="description" content="Motivation: In taking our project to the next level, we wanted to allow our robot to draw on a large curved surface. This repository is for calculating the trajectory for following the curved wall.
 Input: Mesh wall in .obj file form
 Output: ridgeback trajectory
 something like this:
-X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86 Y: -4.0, -4.34, -4.4, -4.31, -4.52, -4.04, -3.64, -3.65, -4.69, -4.">
+X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86 Y: -4.0, -4.34, -4.4, -4.31, -4.52, -4.04, -3.64, -3.65, -4.">
 <meta name="author" content="Jiyoon Park">
-<link rel="canonical" href="https://jiyooonp.github.io/posts/tsp.html">
+<link rel="canonical" href="http://localhost:1313/posts/tsp.html">
 <link crossorigin="anonymous" href="../assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://jiyooonp.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://jiyooonp.github.io/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://jiyooonp.github.io/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://jiyooonp.github.io/apple-touch-icon.png">
-<link rel="mask-icon" href="https://jiyooonp.github.io/safari-pinned-tab.svg">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="https://jiyooonp.github.io/posts/tsp.html">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/tsp.html">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,82 +59,7 @@ X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86
         }
 
     </style>
-</noscript><meta property="og:title" content="Ridgeback Trajectory Planning" />
-<meta property="og:description" content="Motivation: In taking our project to the next level, we wanted to allow our robot to draw on a large curved surface. This repository is for calculating the trajectory for following the curved wall.
-Input: Mesh wall in .obj file form
-Output: ridgeback trajectory
-something like this:
-X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86 Y: -4.0, -4.34, -4.4, -4.31, -4.52, -4.04, -3.64, -3.65, -4.69, -4." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://jiyooonp.github.io/posts/tsp.html" />
-<meta property="og:image" content="https://jiyooonp.github.io/papermod-cover.png" />
-<meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-12-22T00:00:00+00:00" />
-<meta property="article:modified_time" content="2021-12-22T00:00:00+00:00" />
-
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://jiyooonp.github.io/papermod-cover.png" />
-<meta name="twitter:title" content="Ridgeback Trajectory Planning"/>
-<meta name="twitter:description" content="Motivation: In taking our project to the next level, we wanted to allow our robot to draw on a large curved surface. This repository is for calculating the trajectory for following the curved wall.
-Input: Mesh wall in .obj file form
-Output: ridgeback trajectory
-something like this:
-X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86 Y: -4.0, -4.34, -4.4, -4.31, -4.52, -4.04, -3.64, -3.65, -4.69, -4."/>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position":  1 ,
-      "name": "PaperMod",
-      "item": "https://jiyooonp.github.io/posts.html"
-    }
-    {
-      "@type": "ListItem",
-      "position":  1 ,
-      "name": "Ridgeback Trajectory Planning",
-      "item": "https://jiyooonp.github.io/posts/tsp.html"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Ridgeback Trajectory Planning",
-  "name": "Ridgeback Trajectory Planning",
-  "description": "Motivation: In taking our project to the next level, we wanted to allow our robot to draw on a large curved surface. This repository is for calculating the trajectory for following the curved wall.\nInput: Mesh wall in .obj file form\nOutput: ridgeback trajectory\nsomething like this:\nX:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86 Y: -4.0, -4.34, -4.4, -4.31, -4.52, -4.04, -3.64, -3.65, -4.69, -4.",
-  "keywords": [
-    "GLAB", "Ewha"
-  ],
-  "articleBody": "Motivation: In taking our project to the next level, we wanted to allow our robot to draw on a large curved surface. This repository is for calculating the trajectory for following the curved wall.\nInput: Mesh wall in .obj file form\nOutput: ridgeback trajectory\nsomething like this:\nX:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86 Y: -4.0, -4.34, -4.4, -4.31, -4.52, -4.04, -3.64, -3.65, -4.69, -4.63, -4.34, -4.73, -4.84 Problems: The repository is still going under constant modifications 😊 If you have any suggestions, your help will be greatly appreciated 😊\nHow To Use: I warned you that it still needs more work… but if you are willing to wait…🐢\nPlace your .obj file in /input Open trajectory_planning_v10.py Change the file_name to your file Hit run and WAIT Look at the terminal for progress and result Progress Stages\n2021.08.09\nStarted by covering a simple wall with squares 2021.08.10\nStarted by covering a complex wall with squares 2021.08.11\nStarted by covering a wall with circles 2021.08.21\nStarted by covering a wall with small circles for better trajectory 2021.09.10\nUpdate minor changes 2021.09.11\nRealized that I have not considered the actual robots -\u003e fixed the problem but now it is super slow 😔 2021.09.26\nStarted considering iiwa and wall collision 2021.09.30\nDue to the deadline moving up, needed a trajectory that ensures least movements.\nTrajectory that puts ridgeback side to side (v8). 2021.10.09\nUpdated configurations to match gazebo world + cleaned up algorithm to have better efficiency ",
-  "wordCount" : "250",
-  "inLanguage": "en",
-  "image": "https://jiyooonp.github.io/papermod-cover.png","datePublished": "2021-12-22T00:00:00Z",
-  "dateModified": "2021-12-22T00:00:00Z",
-  "author":{
-    "@type": "Person",
-    "name": "Jiyoon Park"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://jiyooonp.github.io/posts/tsp.html"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Jiyoon Park",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://jiyooonp.github.io/favicon.ico"
-    }
-  }
-}
-</script>
+</noscript>
 </head>
 
 <body class="" id="top">
@@ -152,7 +77,7 @@ X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://jiyooonp.github.io/" accesskey="h" title="Jiyoon Park (Alt + H)">Jiyoon Park</a>
+            <a href="http://localhost:1313/" accesskey="h" title="Jiyoon Park (Alt + H)">Jiyoon Park</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -178,12 +103,12 @@ X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86
         </div>
         <ul id="menu">
             <li>
-                <a href="https://jiyooonp.github.io/archives" title="Projects">
+                <a href="http://localhost:1313/archives" title="Projects">
                     <span>Projects</span>
                 </a>
             </li>
             <li>
-                <a href="https://jiyooonp.github.io/cv/jiyoonpark_cv.pdf" title="CV">
+                <a href="http://localhost:1313/cv/jiyoonpark_cv.pdf" title="CV">
                     <span>CV</span>
                 </a>
             </li>
@@ -221,7 +146,8 @@ X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86
     </details>
 </div>
 
-  <div class="post-content"><h3 id="motivation">Motivation:<a hidden class="anchor" aria-hidden="true" href="#motivation">#</a></h3>
+  <div class="post-content"><hr>
+<h3 id="motivation">Motivation:<a hidden class="anchor" aria-hidden="true" href="#motivation">#</a></h3>
 <p>In taking our project to the next level, we wanted to allow our robot to draw on a large curved surface. This repository is for calculating the trajectory for following the curved wall.</p>
 <p><img loading="lazy" src="../posts/TSP/gazebo.GIF" alt="GIF"  />
 </p>
@@ -248,6 +174,7 @@ If you have any suggestions, your help will be greatly appreciated 😊</p>
 <li>Hit run and WAIT</li>
 <li>Look at the terminal for progress and result</li>
 </ol>
+<hr>
 <p><em><strong>Progress Stages</strong></em></p>
 <p><strong>2021.08.09</strong></p>
 <p>Started by covering a simple wall with squares
@@ -296,16 +223,16 @@ If you have any suggestions, your help will be greatly appreciated 😊</p>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://jiyooonp.github.io/tags/glab.html">GLAB</a></li>
-      <li><a href="https://jiyooonp.github.io/tags/ewha.html">Ewha</a></li>
+      <li><a href="http://localhost:1313/tags/glab.html">GLAB</a></li>
+      <li><a href="http://localhost:1313/tags/ewha.html">Ewha</a></li>
     </ul>
 <nav class="paginav">
-  <a class="prev" href="https://jiyooonp.github.io/posts/glab.html">
+  <a class="prev" href="http://localhost:1313/posts/glab.html">
     <span class="title">« Prev</span>
     <br>
     <span>Camera Mobile Manipulator</span>
   </a>
-  <a class="next" href="https://jiyooonp.github.io/posts/review.html">
+  <a class="next" href="http://localhost:1313/posts/review.html">
     <span class="title">Next »</span>
     <br>
     <span>JELP: Restaurant Recommendation and Analysis Website</span>
@@ -317,7 +244,7 @@ If you have any suggestions, your help will be greatly appreciated 😊</p>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2024 <a href="https://jiyooonp.github.io/">Jiyoon Park</a></span>
+    <span>&copy; 2024 <a href="http://localhost:1313/">Jiyoon Park</a></span>
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
