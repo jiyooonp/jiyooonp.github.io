@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ewha on Jiyoon Park</title>
+    <link>http://localhost:1313/tags/ewha.html</link>
+    <description>Recent content in Ewha on Jiyoon Park</description>
+    <image>
+      <title>Jiyoon Park</title>
+      <url>http://localhost:1313/papermod-cover.png</url>
+      <link>http://localhost:1313/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ewha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ridgeback Trajectory Planning</title>
+      <link>http://localhost:1313/posts/tsp.html</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tsp.html</guid>
+      <description>Motivation: In taking our project to the next level, we wanted to allow our robot to draw on a large curved surface. This repository is for calculating the trajectory for following the curved wall.
+Input: Mesh wall in .obj file form
+Output: ridgeback trajectory
+something like this:
+X:-1.65, -0.86, -0.09, 1.64, 2.52, 3.6, 5.25, 5.27, 6.71, 7.09, 7.87, 9.79, 9.86 Y: -4.0, -4.34, -4.4, -4.31, -4.52, -4.04, -3.64, -3.65, -4.</description>
+    </item>
+  </channel>
+</rss>

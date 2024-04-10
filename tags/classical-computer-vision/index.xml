@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Classical Computer Vision on Jiyoon Park</title>
+    <link>http://localhost:1313/tags/classical-computer-vision.html</link>
+    <description>Recent content in Classical Computer Vision on Jiyoon Park</description>
+    <image>
+      <title>Jiyoon Park</title>
+      <url>http://localhost:1313/papermod-cover.png</url>
+      <link>http://localhost:1313/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/classical-computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Reconstruction</title>
+      <link>http://localhost:1313/posts/hw4.html</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hw4.html</guid>
+      <description>3D Reconstruction 16-720 Computer Vision: Homework 4 · Fall 2022
+GITHUB
+About The Project Implemented an algorithm to reconstruct a 3D point cloud from a pair of images taken at different angles. Used the 8-point/7-point algorithm and triangulation to find and visualize 3D locations of corresponding image points.
+Built With Python NumPy Results For the entire report, please refer to the Documentation
+The Eight Point Algorithm for calculating the fundamental matrix The Seven Point Algorithm for calculating the fundamental matrix 3D Visualization of point cloud Bundle Adjustment using RANSAC Multi View Keypoint Reconstruction </description>
+    </item>
+    <item>
+      <title>Augmented Reality with Planar Homographies</title>
+      <link>http://localhost:1313/posts/hw3.html</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hw3.html</guid>
+      <description>Augmented Reality with Planar Homographies 16-720 Computer Vision: Homework 3 · Fall 2022
+GITHUB
+About The Project Implementing an AR application step by step using planar homographies. Finding point correspondences between two images and use these to estimate the homography between them. Then using this homography to warp images and finally implement it on AR applications.
+Built With Python NumPy Results For the entire report, please refer to the Documentation</description>
+    </item>
+    <item>
+      <title>Lucas-Kanade Tracking</title>
+      <link>http://localhost:1313/posts/hw2.html</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hw2.html</guid>
+      <description>Lucas-Kanade Tracking 16-720 Computer Vision: Homework 2 · Fall 2022
+GITHUB
+About The Project Implement a simple Lucas-Kanade (LK) tracker with a single template. And implement a motion subtraction method to track moving pixels in a scene. Finally, efficient tracking using inverse composition.
+Built With Python NumPy Results For the entire report, please refer to the Documentation
+Lucas-Kanade Tracking with One Single Template Lucas-Kanade Tracking with Template Correction Moving Object Detection Track movement in video </description>
+    </item>
+    <item>
+      <title>Spatial Pyramid Matching for Scene Classification</title>
+      <link>http://localhost:1313/posts/hw1.html</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hw1.html</guid>
+      <description>Spatial Pyramid Matching for Scene Classification 16-720 Computer Vision: Homework 1 · Fall 2022
+GITHUB
+About The Project Implementation of a scene classification system that uses bag-of-words approach with its spatial pyramid extension.
+Built With Python NumPy Pipeline Results For the entire report, please refer to the Documentation
+Extracting Filter Responses Visualization of wordmaps Building A Model of the Visual Word Final accuracy of classification </description>
+    </item>
+  </channel>
+</rss>
