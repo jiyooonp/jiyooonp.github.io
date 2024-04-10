@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CMU on Jiyoon Park</title>
-    <link>http://localhost:1313/tags/cmu.html</link>
+    <link>https://jiyooonp.github.io/tags/cmu.html</link>
     <description>Recent content in CMU on Jiyoon Park</description>
     <image>
       <title>Jiyoon Park</title>
-      <url>http://localhost:1313/papermod-cover.png</url>
-      <link>http://localhost:1313/papermod-cover.png</link>
+      <url>https://jiyooonp.github.io/papermod-cover.png</url>
+      <link>https://jiyooonp.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cmu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jiyooonp.github.io/tags/cmu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>F1tenth Race Car</title>
-      <link>http://localhost:1313/posts/f1tenth_labs.html</link>
+      <link>https://jiyooonp.github.io/posts/f1tenth_labs.html</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/f1tenth_labs.html</guid>
+      <guid>https://jiyooonp.github.io/posts/f1tenth_labs.html</guid>
       <description>About The Project Implemented various algorithm to conduct F1Tenth Racing including pure pursuit, RRT, and RRT*.
 Built With Python NumPy Emergency Braking Implemented Emergency Braking for the car using LiDAR scans and calculating the instantaneous Time to Collision (iTTC).
 Wall Following Implemented PID control in the time domain to give commands to the vehicle to follow the wall. Used LiDAR data to calculate the distance from the wall.
@@ -25,9 +25,9 @@ $$ u(t)=K_{p}e(t)+K_{i}\int_{0}^{t}e(t^{\prime})dt^{\prime}+K_{d}\frac{d}{dt}(e(
     </item>
     <item>
       <title>Ultimate Pillow Fight</title>
-      <link>http://localhost:1313/posts/pillow.html</link>
+      <link>https://jiyooonp.github.io/posts/pillow.html</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pillow.html</guid>
+      <guid>https://jiyooonp.github.io/posts/pillow.html</guid>
       <description>About The Project This is a soap slipping, Lego stepping, and trash bin wearing sleep helping game which allow maximum of four players to play at the same time.
 Go grab 2 or 3 friends and play with them! This is a funny, easy and a BIT of WEIRD game!
 Link to Download Download from official Site
@@ -35,27 +35,27 @@ Built With CPP OpenGL Blender Team members Sizhe Chen, Ray Huang, Jiyoon Park, L
     </item>
     <item>
       <title>Indi Game Development</title>
-      <link>http://localhost:1313/posts/games.html</link>
+      <link>https://jiyooonp.github.io/posts/games.html</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/games.html</guid>
+      <guid>https://jiyooonp.github.io/posts/games.html</guid>
       <description>About The Project Developed indi games using CPP.
 Built With CPP OpenGL Blender Tobby&amp;rsquo;s Math Class You are Tobby&amp;rsquo;s gardian for today&amp;rsquo;s math class. Tobby has to navigate around the classroom and collect materials to meet his target, but once Tobby eats a number, it does not appear again. (Also, remeber you are Tobby&amp;rsquo;s gardian, which means you have to be responsible for remebering his collections : )
 Find the Real Tobby &amp;ldquo;Find the Real Tobby&amp;rdquo; innovatively blends consistency in character movement with a strategy of distinguishing the real Tobby among fakes, creating a captivating and challenging gameplay concept.</description>
     </item>
     <item>
       <title>Transformers</title>
-      <link>http://localhost:1313/posts/vlr_transformer.html</link>
+      <link>https://jiyooonp.github.io/posts/vlr_transformer.html</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vlr_transformer.html</guid>
+      <guid>https://jiyooonp.github.io/posts/vlr_transformer.html</guid>
       <description>16-824 Visual Learning and Recognition: Homework 3 · Spring 2023 · GITHUB
 About The Project Implemented and trained different components of a Transformer decoder for image captioning using a subset of the COCO dataset. Additionally, a Vision Transformer (ViT) was implemented for classification on CIFAR10.
 Built With Python NumPy Pytorch Results For the entire report, please refer to the Documentation</description>
     </item>
     <item>
       <title>Generative Modeling</title>
-      <link>http://localhost:1313/posts/vlr_gan.html</link>
+      <link>https://jiyooonp.github.io/posts/vlr_gan.html</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vlr_gan.html</guid>
+      <guid>https://jiyooonp.github.io/posts/vlr_gan.html</guid>
       <description>3D Reconstruction 16-824 Visual Learning and Recognition: Homework 2 · Spring 2023
 GITHUB
 About The Project Implemented and trained Generative Adversarial Networks (GAN) on the CUB 2011 Dataset. The primary goal was to implement GANs following provided instructions, with an emphasis on achieving specific Final FID (Fréchet Inception Distance) scores for different GAN variants: Vanilla GAN, LS-GAN, and WGAN-GP.
@@ -63,9 +63,9 @@ Built With Python NumPy Pytorch Results Vanilla GAN: Final FID 71.95487635262793
     </item>
     <item>
       <title>3D Reconstruction</title>
-      <link>http://localhost:1313/posts/hw4.html</link>
+      <link>https://jiyooonp.github.io/posts/hw4.html</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hw4.html</guid>
+      <guid>https://jiyooonp.github.io/posts/hw4.html</guid>
       <description>3D Reconstruction 16-720 Computer Vision: Homework 4 · Fall 2022
 GITHUB
 About The Project Implemented an algorithm to reconstruct a 3D point cloud from a pair of images taken at different angles. Used the 8-point/7-point algorithm and triangulation to find and visualize 3D locations of corresponding image points.
@@ -74,9 +74,9 @@ The Eight Point Algorithm for calculating the fundamental matrix The Seven Point
     </item>
     <item>
       <title>Augmented Reality with Planar Homographies</title>
-      <link>http://localhost:1313/posts/hw3.html</link>
+      <link>https://jiyooonp.github.io/posts/hw3.html</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hw3.html</guid>
+      <guid>https://jiyooonp.github.io/posts/hw3.html</guid>
       <description>Augmented Reality with Planar Homographies 16-720 Computer Vision: Homework 3 · Fall 2022
 GITHUB
 About The Project Implementing an AR application step by step using planar homographies. Finding point correspondences between two images and use these to estimate the homography between them. Then using this homography to warp images and finally implement it on AR applications.
@@ -84,9 +84,9 @@ Built With Python NumPy Results For the entire report, please refer to the Docum
     </item>
     <item>
       <title>Lucas-Kanade Tracking</title>
-      <link>http://localhost:1313/posts/hw2.html</link>
+      <link>https://jiyooonp.github.io/posts/hw2.html</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hw2.html</guid>
+      <guid>https://jiyooonp.github.io/posts/hw2.html</guid>
       <description>Lucas-Kanade Tracking 16-720 Computer Vision: Homework 2 · Fall 2022
 GITHUB
 About The Project Implement a simple Lucas-Kanade (LK) tracker with a single template. And implement a motion subtraction method to track moving pixels in a scene. Finally, efficient tracking using inverse composition.
@@ -95,9 +95,9 @@ Lucas-Kanade Tracking with One Single Template Lucas-Kanade Tracking with Templa
     </item>
     <item>
       <title>Spatial Pyramid Matching for Scene Classification</title>
-      <link>http://localhost:1313/posts/hw1.html</link>
+      <link>https://jiyooonp.github.io/posts/hw1.html</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hw1.html</guid>
+      <guid>https://jiyooonp.github.io/posts/hw1.html</guid>
       <description>Spatial Pyramid Matching for Scene Classification 16-720 Computer Vision: Homework 1 · Fall 2022
 GITHUB
 About The Project Implementation of a scene classification system that uses bag-of-words approach with its spatial pyramid extension.

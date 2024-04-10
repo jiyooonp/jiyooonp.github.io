@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Game on Jiyoon Park</title>
-    <link>http://localhost:1313/tags/game.html</link>
+    <link>https://jiyooonp.github.io/tags/game.html</link>
     <description>Recent content in Game on Jiyoon Park</description>
     <image>
       <title>Jiyoon Park</title>
-      <url>http://localhost:1313/papermod-cover.png</url>
-      <link>http://localhost:1313/papermod-cover.png</link>
+      <url>https://jiyooonp.github.io/papermod-cover.png</url>
+      <link>https://jiyooonp.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jiyooonp.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ultimate Pillow Fight</title>
-      <link>http://localhost:1313/posts/pillow.html</link>
+      <link>https://jiyooonp.github.io/posts/pillow.html</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pillow.html</guid>
+      <guid>https://jiyooonp.github.io/posts/pillow.html</guid>
       <description>About The Project This is a soap slipping, Lego stepping, and trash bin wearing sleep helping game which allow maximum of four players to play at the same time.
 Go grab 2 or 3 friends and play with them! This is a funny, easy and a BIT of WEIRD game!
 Link to Download Download from official Site
@@ -25,9 +25,9 @@ Built With CPP OpenGL Blender Team members Sizhe Chen, Ray Huang, Jiyoon Park, L
     </item>
     <item>
       <title>Indi Game Development</title>
-      <link>http://localhost:1313/posts/games.html</link>
+      <link>https://jiyooonp.github.io/posts/games.html</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/games.html</guid>
+      <guid>https://jiyooonp.github.io/posts/games.html</guid>
       <description>About The Project Developed indi games using CPP.
 Built With CPP OpenGL Blender Tobby&amp;rsquo;s Math Class You are Tobby&amp;rsquo;s gardian for today&amp;rsquo;s math class. Tobby has to navigate around the classroom and collect materials to meet his target, but once Tobby eats a number, it does not appear again. (Also, remeber you are Tobby&amp;rsquo;s gardian, which means you have to be responsible for remebering his collections : )
 Find the Real Tobby &amp;ldquo;Find the Real Tobby&amp;rdquo; innovatively blends consistency in character movement with a strategy of distinguishing the real Tobby among fakes, creating a captivating and challenging gameplay concept.</description>

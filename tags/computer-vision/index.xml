@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Computer Vision on Jiyoon Park</title>
-    <link>http://localhost:1313/tags/computer-vision.html</link>
+    <link>https://jiyooonp.github.io/tags/computer-vision.html</link>
     <description>Recent content in Computer Vision on Jiyoon Park</description>
     <image>
       <title>Jiyoon Park</title>
-      <url>http://localhost:1313/papermod-cover.png</url>
-      <link>http://localhost:1313/papermod-cover.png</link>
+      <url>https://jiyooonp.github.io/papermod-cover.png</url>
+      <link>https://jiyooonp.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jiyooonp.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transformers</title>
-      <link>http://localhost:1313/posts/vlr_transformer.html</link>
+      <link>https://jiyooonp.github.io/posts/vlr_transformer.html</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vlr_transformer.html</guid>
+      <guid>https://jiyooonp.github.io/posts/vlr_transformer.html</guid>
       <description>16-824 Visual Learning and Recognition: Homework 3 · Spring 2023 · GITHUB
 About The Project Implemented and trained different components of a Transformer decoder for image captioning using a subset of the COCO dataset. Additionally, a Vision Transformer (ViT) was implemented for classification on CIFAR10.
 Built With Python NumPy Pytorch Results For the entire report, please refer to the Documentation</description>
     </item>
     <item>
       <title>Generative Modeling</title>
-      <link>http://localhost:1313/posts/vlr_gan.html</link>
+      <link>https://jiyooonp.github.io/posts/vlr_gan.html</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vlr_gan.html</guid>
+      <guid>https://jiyooonp.github.io/posts/vlr_gan.html</guid>
       <description>3D Reconstruction 16-824 Visual Learning and Recognition: Homework 2 · Spring 2023
 GITHUB
 About The Project Implemented and trained Generative Adversarial Networks (GAN) on the CUB 2011 Dataset. The primary goal was to implement GANs following provided instructions, with an emphasis on achieving specific Final FID (Fréchet Inception Distance) scores for different GAN variants: Vanilla GAN, LS-GAN, and WGAN-GP.
